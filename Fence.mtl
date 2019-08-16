@@ -1,0 +1,12 @@
+# Blender MTL File: 'update_fence.blend'
+# Material Count: 1
+
+newmtl blinn1SG.000
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.000000 0.000830
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 3
